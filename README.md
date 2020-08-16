@@ -32,3 +32,4 @@ WebQS ranks suggested query keywords in its trie data structure based on
 
 This project will show the top eight query suggestions to the user.
 "# Smart-Defect-Advisor" 
+"# Smart-Defect-Advisor" 
